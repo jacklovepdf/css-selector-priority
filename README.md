@@ -13,6 +13,7 @@ a demo to desc the priority of css selector
 # demo4
    继承的CSS 样式不如后来指定的CSS 样式；
 
+# conclusion
 CSS 优先级法则：
     1.选择器都有一个权值，权值越大越优先；
          （1）内联样式表的权值最高 1000；
