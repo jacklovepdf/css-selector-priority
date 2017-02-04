@@ -13,6 +13,8 @@ a demo to desc the priority of css selector
 # demo4
    继承的CSS 样式不如后来指定的CSS 样式；
 
+# demo5
+   可以通过添加限定的方式提高css选择器的优先级权值,从而实现样式的覆盖与重写；
 # conclusion
 CSS 优先级法则：
     1.选择器都有一个权值，权值越大越优先；
